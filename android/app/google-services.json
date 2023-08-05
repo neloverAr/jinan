@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956947138238",
+    "project_id": "jinan-39cdb",
+    "storage_bucket": "jinan-39cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956947138238:android:5494a0307c7de6d52980ef",
+        "android_client_info": {
+          "package_name": "com.rawd.aljinan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956947138238-s3ihmerptadu4s72tgpqc4pqoc8p43j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.school",
+            "certificate_hash": "db1e75854fea86d2cbc34bd4e2f4a707383e0681"
+          }
+        },
+        {
+          "client_id": "956947138238-1kt50penudj1aj3utlqjtsrohjqeh01s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sRdWBg3xzzaupw6dVR7LpEEBFsYhH-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956947138238-1kt50penudj1aj3utlqjtsrohjqeh01s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

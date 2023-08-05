@@ -1,0 +1,2 @@
+
+const langKey = 'lang';
